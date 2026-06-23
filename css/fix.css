@@ -1,0 +1,15 @@
+/* Emergency visibility fix */
+html, body {
+    background: #F5EBFA !important;
+    color: #49225B !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+* {
+    opacity: inherit !important;
+}
+
+.page-loader {
+    display: none !important;
+}
